@@ -2,7 +2,7 @@
 
 **Senior Software Engineer · Technical Lead · .NET Specialist**
 
-I am a hands-on software engineer and technical lead with **15+ years of experience** building, modernizing, and supporting business-critical software. My core background is in the Microsoft ecosystem, with a strong focus on .NET applications, REST APIs, enterprise integrations, data-intensive workflows, and the incremental modernization of long-lived systems.
+I am a hands-on software engineer and technical lead with **20+ years of experience** building, modernizing, and supporting business-critical software. My core background is in the Microsoft ecosystem, with a strong focus on .NET applications, REST APIs, enterprise integrations, data-intensive workflows, and the incremental modernization of long-lived systems.
 
 I work at the intersection of architecture and delivery: translating operational requirements into clear technical designs, decomposing complex problems, guiding implementation, and helping teams ship maintainable solutions without disrupting the business.
 
